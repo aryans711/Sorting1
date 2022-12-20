@@ -1,0 +1,14 @@
+Data Types
+Primitive (already exist),examples-> byte,short,int,long,double
+Non Primitive(that we create), examples-> String,Array,Class,Object,Interface
+Java is a typed language meaning we have to define the type of data
+
+SIZE OF DATA TYPES
+byte -> 1byte [-128 to 127] total 256 numbers
+short -> 2bytes []
+char -> 2bytes ['a' to 'z' 'A' to 'Z' '%' ',' '@' ]
+boolean -> 1byte ['true','false']
+int -> 4bytes [-2Billion to 2Billion (but without a decimal point)]
+long -> 8bytes[more int]
+float -> 4bytes[.]
+double -> 8bytes[more float]

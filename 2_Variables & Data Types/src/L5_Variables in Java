@@ -1,0 +1,15 @@
+2*(a+b) where a and b are variables
+'2' is a literal, these are universal values
+'a','b','@','*' are character literals
+
+int a = 10; -> a is a variable, where value of 10 is assigned to variable 'a'
+int b = 5;-> b is a variable, where value of 10 is assigned to variable 'b'
+
+(a,b,c -> variables names
+JavaBasics -> classes name
+Functions like -> main,print,println)
+These all are called identifiers
+
+MEMORY
+       a                    b
+block  10 block block block 5 block
